@@ -1,8 +1,8 @@
 # Name（リポジトリ/プロジェクト/OSSなどの名前）
 
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
+明瞭な名前
 
-"hoge"が何かを簡潔に紹介する
+このソフトウェア(以降: "hoge")が何かを簡潔に紹介する
 
 # DEMO
 
@@ -56,4 +56,4 @@ python demo.py
 
 社内向けなら社外秘であることを明示してる
 
-"hoge" is Confidential.
+"hoge" is Confidential
